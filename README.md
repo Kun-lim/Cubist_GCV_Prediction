@@ -35,3 +35,5 @@ SET1 (Moisture, Volatile_matter, Ash, GCV)
 SET2 (Carbon, Oxygen, Sulfur, GCV)
 
 SET3 (Moisture, Volatile_matter, Ash, Hydrogen, Carbon, Oxygen, Sulfur, GCV)
+
+**Email**:heyuli301@126.com; chenjunlin@111.com
