@@ -6,9 +6,9 @@ We have made the necessary comments, please refer to the article for detailed im
 ## Introduction
 ### 1 [select_cubist_model_perimeters.r]
 Uses grid search to determine two parameters of the cubist algorithm: committees and neighbors (instances)
-### 2[PSO-ANN.ipynb]
+### 2[PSO-ANN Parameter Optimization.ipynb]
 Tuning the parameters of a Multi-Layer Perceptron (MLP) neural network using Particle Swarm Optimization (PSO), and evaluates its performance on the task of GCV prediction.
-### 3[GCV_prediction]
+### 3[Multiple Regression Model Comparison.ipynb]
 (1) Calculation of Descriptive Statistics for the data.
 
 (2) Boxplot for each variable.
